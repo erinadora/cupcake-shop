@@ -16,11 +16,12 @@ article {
 }
 
 .flashy {
-  font-family: "Trebuchet MS";
+  font-family: "Brush Script MT";
   font-style: italic;
   font-weight: 300;
   color: #C45858;
   text-align: center;
+  font-size: 35px;
 }
 
 article p {
@@ -30,10 +31,8 @@ article p {
 
 .best{
   color: #eba8bc;
-  font-family: "Trebuchet MS";
-  font-size: 120%;
-  font-weight: bold;
-  font-style: italic;
+  font-family: "phosphate";
+  font-size: 140%;
 }
 
 .head {
@@ -67,4 +66,10 @@ article p {
   font-family: phosphate;
   font-style: normal;
   font-size: 120%;
+  color: #eba8bc;
+}
+
+.reference a:hover {
+  color: #eba8bc;
+  font-size: 140%;
 }
