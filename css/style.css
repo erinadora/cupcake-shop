@@ -33,3 +33,10 @@ article p {
   font-weight: bold;
   font-style: italic;
 }
+
+.head {
+  width: 700px;
+  margin: auto;
+  height: 400px;
+  border-radius: 3px;
+}
